@@ -1,0 +1,8 @@
+1. install laravel 
+
+2. instal laravel jetstream
+
+3. install yajra
+
+4. persiapan API 
+https://gist.github.com/galpratama/36ca7e903a73bc46acaa6fb810b7cd13
