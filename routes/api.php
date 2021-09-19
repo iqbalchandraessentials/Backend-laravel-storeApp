@@ -4,6 +4,7 @@ use App\Http\Controllers\API\ProductController;
 use App\Http\Controllers\API\ProductCategoryController;
 use App\Http\Controllers\API\TokoController;
 use App\Http\Controllers\API\UserController;
+use App\Http\Controllers\TransactionController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
